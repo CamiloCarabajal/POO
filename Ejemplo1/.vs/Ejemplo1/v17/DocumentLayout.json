@@ -3,15 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|c:\\users\\fliac\\onedrive\\escritorio\\poo\\poo\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{707C1770-33F8-4223-BC15-9F30D2AF427F}|..\\Ejemplo2\\Ejemplo2.csproj|c:\\users\\fliac\\onedrive\\escritorio\\poo\\poo\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|c:\\users\\fliac\\onedrive\\escritorio\\poo\\poo\\ejemplo1\\bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{707C1770-33F8-4223-BC15-9F30D2AF427F}|..\\Ejemplo2\\Ejemplo2.csproj|c:\\users\\fliac\\onedrive\\escritorio\\poo\\poo\\ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C1770-33F8-4223-BC15-9F30D2AF427F}|..\\Ejemplo2\\Ejemplo2.csproj|c:\\users\\fliac\\onedrive\\escritorio\\poo\\poo\\ejemplo2\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|solutionrelative:bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|c:\\users\\fliac\\onedrive\\escritorio\\poo\\poo\\ejemplo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86D9E0F-F71E-4FA6-A45C-57513BBD752D}|Ejemplo1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,24 +47,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo2\\Venta.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo2\\Venta.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo2\\Venta.cs",
+              "RelativeToolTip": "..\\Ejemplo2\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:01:27.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo2\\Articulo.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo2\\Articulo.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo2\\Articulo.cs",
+              "RelativeToolTip": "..\\Ejemplo2\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:45:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo2\\Program.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo2\\Program.cs",
+              "RelativeToolTip": "..\\Ejemplo2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:40:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Bottle.cs",
               "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\Bottle.cs",
               "RelativeDocumentMoniker": "Bottle.cs",
               "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\Bottle.cs",
               "RelativeToolTip": "Bottle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T04:51:33.165Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
@@ -67,21 +107,7 @@
               "RelativeToolTip": "Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:31:42.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\POO\\POO\\Ejemplo1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:29:34.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T04:31:42.557Z"
             }
           ]
         }
